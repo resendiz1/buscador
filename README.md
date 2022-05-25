@@ -8,6 +8,5 @@ Es mi primer proyecto web con base de datos, es un CRUD basico en donde se puede
 <li> Se clona el proyecto en la carpeta destinada para los proyectos dependiendo del servidor apache que tengamos</li>
 <li>Se reestablece la Base de Datos </li>
 
-
-                                                                      <b> Con eso ya deberia funcionar</b>
+<b> Con eso ya deberia funcionar</b>
 
