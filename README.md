@@ -5,8 +5,8 @@ Es mi primer proyecto web con base de datos, es un CRUD basico en donde se puede
 <li>Se requiere un servidor Apache como: <i> LAMPP, XAMPP, Laragon, etc </i>   </li>
 
 <h1> Instalación</h1>
-<i> Se clona el proyecto en la carpeta destinada para los proyectos dependiendo del servidor apache que tengamos</i>
-<i>Se reestablece la Base de Datos </i>
+<li> Se clona el proyecto en la carpeta destinada para los proyectos dependiendo del servidor apache que tengamos</li>
+<li>Se reestablece la Base de Datos </li>
 
 <b> Con eso ya deberia funcionar</b>
 
