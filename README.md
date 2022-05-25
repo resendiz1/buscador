@@ -1,8 +1,12 @@
-# buscador
-***Para ejecutarlo hay que importar la base de datos ****
+<h1> Descripción</h1>
+Es mi primer proyecto web con base de datos, es un CRUD basico en donde se pueden agregar datos de tiendas y a cada tienda se le pueden agregar productos y comentarios. El proyecto esta realizado con PHP, CSS (Bootstrap) y MySQL.
 
-DESCRIPCIÓN:
-Buscador de producto muy básico, dentro de este buscador se pueden agregar tiendas, las tiendas pueden agregar 
-sus productos para posteriormente el "cliente" final pueda encontrarlos mediante su nombre. Es importante mencionar 
-que se usa el nombre del comercio para iniciar sesión, cualquiera pensaria que se usa el correo pero dentro de esta 
-pequeña app web se usa el nombre de la tienda con todo y  espacios para el inicio de sesión.
+<h2> Requerimientos</h2>
+<li>Se requiere un servidor Apache como: <i> LAMPP, XAMPP, Laragon, etc </i>   </li>
+
+<h1> Instalación</h1>
+<i> Se clona el proyecto en la carpeta destinada para los proyectos dependiendo del servidor apache que tengamos</i>
+<i>Se reestablece la Base de Datos </i>
+
+<b> Con eso ya deberia funcionar</b>
+
